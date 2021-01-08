@@ -74,3 +74,57 @@ footer p{
     text-align: center;
     font-size: 12px;
 }
+
+.menu-bar{
+    float: right;
+}
+
+li {
+    display: inline;
+  }
+
+  .working-area h2{
+      text-align: center;
+      padding-top: 150px;
+      
+  }
+  .working-area{
+      width: 100%;
+      background-color: #F8F9FC;
+  }
+  .working-with img{
+      height: 215px;
+      width: 345px;
+      
+
+      
+  }
+  .working-with{
+      
+      margin-top: 200px;
+      width: 30%;
+      float: left;
+      margin-left: 2%;
+    padding-left: 1%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+    
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: rgba(182, 190, 186, 0.384);
+    margin-top: 250px;
+
+    
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 450px;
